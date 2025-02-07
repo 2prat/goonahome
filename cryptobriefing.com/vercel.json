@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/goona-bomber-dog-shot-dead",
+      "source": "/star-craft-runner-up-btc",
       "destination": "https://goonarticle.vercel.app/"
     }
   ]
