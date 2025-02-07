@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/goona-bomber-dog-shot-dead",
+      "destination": "https://goonarticle.vercel.app/"
+    }
+  ]
+}
